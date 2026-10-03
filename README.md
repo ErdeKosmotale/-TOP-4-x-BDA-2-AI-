@@ -1,5 +1,6 @@
 # 🎓 학습자 수료 예측 AI — DACON x BDA 제2회
 
+![Rank](https://img.shields.io/badge/🏆%20Rank-Top%204%25-gold)
 [![DACON](https://img.shields.io/badge/DACON-월간%20데이콘-0C4DA2)](https://dacon.io/competitions/official/236664/overview/description)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00)
@@ -13,6 +14,7 @@
 
 | 구분 | 점수 |
 | --- | --- |
+| **최종 순위** | **상위 4%** (참가자 1,257명) |
 | OOF F1 (3-Fold, 5-seed 앙상블) | 약 0.51 |
 | **Public LB 최고 점수** | **0.4421** |
 
