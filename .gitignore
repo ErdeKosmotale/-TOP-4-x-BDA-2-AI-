@@ -1,0 +1,7 @@
+# 대회 데이터 및 제출 파일 (재배포 금지)
+*.csv
+data/
+
+.ipynb_checkpoints/
+__pycache__/
+catboost_info/
